@@ -1,0 +1,24 @@
+import java.util.*;
+
+
+class TwodArray
+	{
+	
+	
+	public static void main(String[] args)
+	{
+	
+		
+	
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	}
